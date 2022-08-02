@@ -19,7 +19,7 @@ Contato:</br>
 pedro.rmn19@gmail.com
 
 Redes Sociais:<br/>
-<a href="https://www.instagram.com/pedro.rmn19/"><img width="4%" class="teste" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
-<a href="https://www.facebook.com/profile.php?id=100029653882575"><img width="4%" class="teste" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></a>
-<a href="https://www.linkedin.com/in/pedro-rufino-da-mata-neto-ab956b20a"><img width="4%" class="teste" src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659451716~hmac=9457e8125ce1ebe5325a5246af55a742)"></a>
+<a href="https://www.instagram.com/pedro.rmn19/"><img width="4%" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+<a href="https://www.facebook.com/profile.php?id=100029653882575"><img width="4%" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></a>
+<a href="https://www.linkedin.com/in/pedro-rufino-da-mata-neto-ab956b20a"><img width="4%" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659451716~hmac=9457e8125ce1ebe5325a5246af55a742"></a>
 
