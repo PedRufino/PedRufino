@@ -64,7 +64,7 @@
 <p  align="center"><em>Se quiser dizer oi, ficarei muito feliz em conhecê-lo!</em></p>
 <br>
 <p  align="center">
-<a  href="www.linkedin.com/in/pedro-rufino-da-mata-neto/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a  href="www.linkedin.com/in/pedro-rufino-da-mata-neto"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a  href="mailto:pedro.rmn19@gmail.com"><img  alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a  href="https://www.instagram.com/pedro.rmn19/"><img  alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
