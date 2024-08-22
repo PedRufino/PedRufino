@@ -39,12 +39,12 @@
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedneto&theme=dark&layout=donut-vertical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrufino&theme=dark&layout=donut-vertical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 
 <td width="50%" align="center">
-<img  title="🔥 Obtenha estatísticas de sequência para o seu perfil em git.io/streak-stats" alt="PedroNeto" src="https://github-readme-streak-stats.herokuapp.com/?user=pedneto&theme=dark&hide_border=true" />
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedneto&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+<img  title="🔥 Obtenha estatísticas de sequência para o seu perfil em git.io/streak-stats" alt="PedroNeto" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrufino&theme=dark&hide_border=true" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedrufino&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
 </table>
@@ -54,7 +54,7 @@
 </p>
                                                                                     
 <p  align="center">
-<a  href="https://github-readme-activity-graph.vercel.app/graph?username=pedneto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" target="_blank"><img  alt="Gráfico de atividades"  src="https://github-readme-activity-graph.vercel.app/graph?username=pedneto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
+<a  href="https://github-readme-activity-graph.vercel.app/graph?username=pedrufino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" target="_blank"><img  alt="Gráfico de atividades"  src="https://github-readme-activity-graph.vercel.app/graph?username=pedrufino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <p  align="center">
